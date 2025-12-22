@@ -14,7 +14,7 @@
 <li>Recommended applications and use cases after completing each topic</li>
 </ul>
 
-<div style="background:#eef2ff; border-left:5px solid #6366f1; padding:15px; border-radius:6px; margin-top:20px;">
+<div style="background:#eef2ff; border-left:5px solid #6366f1; padding:15px; border-radius:6px; margin-top:20px;"> 
 This roadmap is designed for <strong>deep understanding</strong>, not speed. Each topic is studied carefully and incrementally.
 </div>
 
