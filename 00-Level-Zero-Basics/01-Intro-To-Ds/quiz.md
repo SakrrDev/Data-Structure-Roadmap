@@ -5,7 +5,7 @@
 - Questions are ordered from easy to hard.
 - Do NOT check answers until you finish the quiz.
 
----
+----
 
 ### Q1. What is a Data Structure?
 - A) A programming language  
