@@ -131,7 +131,7 @@ public:
             inorder(r->right);
         }
     }
-
+    
     void inorder() {
     inorder(root);
     cout << endl;
