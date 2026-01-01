@@ -83,7 +83,7 @@ D. Queue
 
 ---
 
-## ✅ Answers
+##  Answers
 
 1. **D. Graph**  
 2. **B. Hash Table**  

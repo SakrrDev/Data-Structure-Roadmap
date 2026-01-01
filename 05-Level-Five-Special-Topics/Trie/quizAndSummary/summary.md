@@ -45,9 +45,9 @@ Insert: cat, car:
 
 ---
 
-## ⚙️ Basic Operations
+##  Basic Operations
 
-### 1️⃣ Insert a Word
+###  Insert a Word
 - Start from the root
 - For each character:
   - Create a node if it doesn't exist
@@ -58,7 +58,7 @@ where `L` = length of the word
 
 ---
 
-### 2️⃣ Search a Word
+###  Search a Word
 - Traverse character by character
 - Check `endOfWord` at the last node
 
@@ -66,7 +66,7 @@ where `L` = length of the word
 
 ---
 
-### 3️⃣ Prefix Search
+###  Prefix Search
 - Traverse characters of the prefix
 - If traversal succeeds → prefix exists
 
@@ -95,7 +95,7 @@ where `L` = length of the word
 
 ---
 
-## ❌ Disadvantages
+##  Disadvantages
 - High memory usage
 - Inefficient for small datasets
 - More complex than arrays or hash tables
@@ -104,11 +104,11 @@ where `L` = length of the word
 
 ##  Trie vs Hash Table
 
-| Feature        | Trie | Hash Table |
-|---------------|------|------------|
-| Prefix Search | ✅ Yes | ❌ No |
-| Search Time   | O(L) | O(1) avg |
-| Memory Usage  | High | Moderate |
+| Feature       | Trie | Hash Table |
+| ------------- | ---- | ---------- |
+| Prefix Search | Yes  | No         |
+| Search Time   | O(L) | O(1) avg   |
+| Memory Usage  | High | Moderate   |
 
 ---
 

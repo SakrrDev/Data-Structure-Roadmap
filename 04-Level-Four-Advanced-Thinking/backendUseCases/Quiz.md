@@ -82,7 +82,7 @@ D. Array
 
 ---
 
-## ✅ Answers
+##  Answers
 
 1. **B. Stack**  
 2. **C. Queue**  

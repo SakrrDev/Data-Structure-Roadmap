@@ -83,7 +83,7 @@ D. Array sorting
 
 ---
 
-## ✅ Answers
+## Answers
 
 1. **C. To keep track of disjoint sets**  
 2. **C. Find and Union**  

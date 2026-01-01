@@ -1,0 +1,201 @@
+{
+  "main": {
+    "id": "2f556671eb86730d",
+    "type": "split",
+    "children": [
+      {
+        "id": "06c827e1b41803e9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c004645dbf5d82a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05-Level-Five-Special-Topics/Union-Find/summaryAndQuiz/summary.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "summary"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ef97e50948c002a9",
+    "type": "split",
+    "children": [
+      {
+        "id": "f901577a2cef7275",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7d3d5b68f4965934",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ab4af6a7524870ab",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e30612287875d83f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7612c7d7fe3ef3fa",
+    "type": "split",
+    "children": [
+      {
+        "id": "86932b0cdc6a5c23",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5b54c9459ecaa9f5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "05-Level-Five-Special-Topics/Union-Find/summaryAndQuiz/summary.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for summary"
+            }
+          },
+          {
+            "id": "6367c8bb3e46d1fa",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "05-Level-Five-Special-Topics/Union-Find/summaryAndQuiz/summary.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from summary"
+            }
+          },
+          {
+            "id": "5819734d65afaa40",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "aa2c3d510e3ba87a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "d01799099dc4785b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "05-Level-Five-Special-Topics/Union-Find/summaryAndQuiz/summary.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of summary"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "c004645dbf5d82a6",
+  "lastOpenFiles": [
+    "05-Level-Five-Special-Topics/Union-Find/summaryAndQuiz/Quiz.md",
+    "README.md",
+    "05-Level-Five-Special-Topics/Trie/quizAndSummary/summary.md",
+    "05-Level-Five-Special-Topics/Trie/quizAndSummary/Quiz.md",
+    "05-Level-Five-Special-Topics/Segment-Tree/SummaryAndQuestions/Summary.md",
+    "05-Level-Five-Special-Topics/LRU-Cache/summaryAndQuiz/LRU-CHECK-UNDERSTANDING.md",
+    "05-Level-Five-Special-Topics/LRU-Cache/summaryAndQuiz/summary.md",
+    "04-Level-Four-Advanced-Thinking/Security-and-Networking-Use-Cases/Quiz.md",
+    "04-Level-Four-Advanced-Thinking/Interview-Patterns/Quiz.md",
+    "04-Level-Four-Advanced-Thinking/Complexity-Comparison/Quiz.md",
+    "04-Level-Four-Advanced-Thinking/Choosing-the-Right-DS/Quiz.md",
+    "04-Level-Four-Advanced-Thinking/backendUseCases/Quiz.md"
+  ]
+}

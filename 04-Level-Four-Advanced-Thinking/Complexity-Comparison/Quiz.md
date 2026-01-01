@@ -81,7 +81,7 @@ D. O(n)
 
 ---
 
-## ✅ Answers
+##  Answers
 
 1. **D. O(2ⁿ)**  
 2. **C. O(n)**  

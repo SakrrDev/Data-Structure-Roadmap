@@ -1,6 +1,6 @@
 # Union-Find (Disjoint Set Union – DSU)
 
-## 📌 Overview
+##  Overview
 **Union-Find**, also known as **Disjoint Set Union (DSU)**, is a data structure used to manage a collection of **disjoint (non-overlapping) sets**.
 
 It is especially useful when you need to:
@@ -10,7 +10,7 @@ It is especially useful when you need to:
 
 ---
 
-## 🧠 Core Idea
+##  Core Idea
 Each element belongs to **exactly one set**.  
 Each set has a **representative (leader)**, also called the **root**.
 
@@ -20,7 +20,7 @@ Operations are based on:
 
 ---
 
-## 🧱 Representation
+##  Representation
 Union-Find is typically implemented using **arrays**:
 
 - `parent[i]` → parent of element `i`
@@ -35,12 +35,12 @@ parent[i] = i // each element is its own parent
 
 ---
 
-## ⚙️ Basic Operations
+##  Basic Operations
 
-### 1️⃣ Find (Find Representative)
+###  Find (Find Representative)
 Returns the root of the set containing element `x`.
 
-#### 🔹 Path Compression
+####  Path Compression
 During `find`, make every node point **directly to the root**.
 This flattens the structure and speeds up future operations.
 
@@ -49,14 +49,14 @@ Before:   x → p → r
 After:    x → r
 ```
 
-⏱ **Time Complexity:** `O(α(n))` (almost constant)
+ **Time Complexity:** `O(α(n))` (almost constant)
 
 ---
-### 2️⃣ Union (Merge Sets)
+###  Union (Merge Sets)
 
 Merges the sets containing `x` and `y`.
 
-#### 🔹 Union by Rank / Size
+####  Union by Rank / Size
 
 Attach the **smaller tree** under the **larger tree** to keep trees shallow.
 
@@ -67,14 +67,14 @@ Rules:
 - Otherwise → attach smaller rank under larger rank
 
 ---
-### 3️⃣ Connected
+###  Connected
 
 Checks if two elements are in the same set.
 ```
 connected(x, y) → find(x) == find(y)
 ```
 ---
-## ⚡ Optimizations
+##  Optimizations
 
 | Optimization     | Purpose                        |
 | ---------------- | ------------------------------ |
@@ -86,7 +86,7 @@ Using **both** gives the best performance.
 
 ---
 
-## 📊 Complexity Analysis
+##  Complexity Analysis
 
 | Operation | Time Complexity |
 | --------- | --------------- |
@@ -97,11 +97,11 @@ Using **both** gives the best performance.
 > `α(n)` = Inverse Ackermann Function  
 > Grows so slowly it’s **≤ 4 for all practical inputs**
 
-📦 **Space Complexity:** `O(n)`
+ **Space Complexity:** `O(n)`
 
 ---
 
-## ✅ Advantages
+##  Advantages
 
 - Extremely fast operations
     
@@ -114,7 +114,7 @@ Using **both** gives the best performance.
 
 ---
 
-## ❌ Disadvantages
+##  Disadvantages
 
 - Cannot easily list all elements in a set
     
@@ -125,7 +125,7 @@ Using **both** gives the best performance.
 
 ---
 
-## 🧪 Common Applications
+##  Common Applications
 
 - Graph connectivity
     
@@ -142,17 +142,17 @@ Using **both** gives the best performance.
 
 ---
 
-## 🆚 Union-Find vs Graph Traversal
+##  Union-Find vs Graph Traversal
 
 | Feature              | Union-Find | DFS / BFS    |
 | -------------------- | ---------- | ------------ |
-| Dynamic connectivity | ✅ Yes      | ❌ No         |
+| Dynamic connectivity | Yes        |  No          |
 | Repeated queries     | Very fast  | Slower       |
 | Implementation       | Simple     | More complex |
 
 ---
 
-## 📝 Notes
+##  Notes
 
 - Best used when the problem involves **frequent union & find operations**
     
@@ -163,7 +163,7 @@ Using **both** gives the best performance.
 
 ---
 
-## 📚 Related Topics
+##  Related Topics
 
 - Graph Theory
     
