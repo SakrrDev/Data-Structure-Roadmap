@@ -121,7 +121,7 @@ Data-Structures-Roadmap/
 <tbody>
 <tr>
 <td style="padding:10px; border:1px solid #ccc;">Muhammad Sakr</td>
-<td style="padding:10px; border:1px solid #ccc;"><a href="https://github.com/TheSakr" target="_blank">GitHub Profile</a></td>
+<td style="padding:10px; border:1px solid #ccc;"><a href="https://github.com/SakrrDev" target="_blank">GitHub Profile</a></td>
 </tr>
 <tr>
 <td style="padding:10px; border:1px solid #ccc;">Ahmed Hamed</td>
