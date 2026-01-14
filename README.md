@@ -114,7 +114,7 @@ Data-Structures-Roadmap/
 </div>
 
 <h2 style="margin-top:40px; border-bottom:2px solid #e5e7eb; padding-bottom:5px;">Contributing</h2>
-<p>We welcome contributions from everyone! If you have ideas or want to help improve this repository, you can <strong>fork</strong> the repo, make changes on a new branch, and then submit a <strong>Pull Request</strong>.</p>
+<p>If you have ideas or want to help improve this repository, you can <strong>fork</strong> the repo, make changes on a new branch, and then submit a <strong>Pull Request</strong>.</p>
 
 <h3>Contributors</h3>
 <table style="width:40%; border-collapse: collapse;">
